@@ -35,7 +35,7 @@ function Home() {
 
       <section className="testimonial">
         <blockquote>
-          "FreshGrocer saved me 3 hours weekly on grocery shopping! The quality is always fresh."
+          "The Grocery Store App saved me 3 hours weekly on grocery shopping! The quality is always fresh."
           <cite>- Happy Customer</cite>
         </blockquote>
       </section>
